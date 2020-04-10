@@ -2,13 +2,13 @@
 
 
 #Dependencies
-PHP >= 5.6.4
-OpenSSL PHP Extension
-PDO PHP Extension
-Mbstring PHP Extension
-Tokenizer PHP Extension
-XML PHP Extension
-Composer
+a) PHP >= 5.6.4
+b) OpenSSL PHP Extension
+c) PDO PHP Extension
+d) Mbstring PHP Extension
+e) Tokenizer PHP Extension
+f) XML PHP Extension
+g) Composer
 
 
 #Steps
